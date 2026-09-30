@@ -21,6 +21,10 @@
     "caching"
   ],
   "author": "Skyward App Company",
+  "contributors": [
+    "Emily Ragan (https://github.com/EmilyRagan)",
+    "Nicholas Elliott (https://nicholasmtelliott.com)"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SkywardApps/async-lru-cache/issues"
